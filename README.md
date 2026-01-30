@@ -1,2 +1,4 @@
 # NewLearning
-This is my first Repository <br> hi this is Nanditha
+This is my first Repository 
+<br>
+hi this is Nanditha(author)
